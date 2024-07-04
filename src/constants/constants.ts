@@ -20,35 +20,35 @@ export const navLinks = Object.entries(navLink) as [NavLink, NavLinkValue][];
 
 export const socialLinks = [
   {
-    name: "Github",
-    url: "https://github.com/paalamugan",
-    icon: "github",
-  },
-  {
     name: "LinkedIn",
-    url: "https://linkedin.com/in/paalamugan",
+    url: "https://www.linkedin.com/in/burhanuddin-rampura/",
     icon: "linkedin",
   },
   {
-    name: "Twitter",
-    url: "https://twitter.com/paalamugan_s",
-    icon: "twitter",
+    name: "Github",
+    url: "https://github.com/DevinBurhan",
+    icon: "github",
   },
   {
-    name: "HackerRank",
-    url: "https://hackerrank.com/paalamugan",
-    icon: "hackerrank",
+    name: "Instagram",
+    url: "https://www.instagram.com/burhanrampura18/",
+    icon: "instagram",
   },
   // {
-  //   name: "Facebook",
-  //   url: "https://www.facebook.com/paalamugan",
-  //   icon: "facebook",
+  //   name: "Twitter",
+  //   url: "https://twitter.com",
+  //   icon: "twitter",
   // },
   // {
-  //   name: "Instagram",
-  //   url: "https://www.instagram.com/paalamugan",
-  //   icon: "instagram",
+  //   name: "HackerRank",
+  //   url: "https://hackerrank.com",
+  //   icon: "hackerrank",
   // },
+  {
+    name: "Facebook",
+    url: "https://www.facebook.com",
+    icon: "facebook",
+  },
 ];
 
 export const jobPositions = [

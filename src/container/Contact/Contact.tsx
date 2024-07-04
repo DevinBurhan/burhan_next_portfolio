@@ -13,8 +13,8 @@ import useIntersectionObserver from "@app/hooks/useIntersectionObserver";
 import style from "./Contact.module.scss";
 import ToastifySuccess, { ToastifySuccessRef } from "@app/components/Toastify/ToastifySuccess";
 
-const RESUME_URL = "/paalamugan-software-engineer-resume.pdf";
-const RESUME_DOWNLOAD_FILE_NAME = "paalamugan-software-engineer-resume.pdf";
+const RESUME_URL = "/burhan-resume.pdf";
+const RESUME_DOWNLOAD_FILE_NAME = "burhan-resume.pdf";
 
 const Contact = () => {
   const [formData, setFormData] = useState<ContactFormData>({
@@ -88,7 +88,7 @@ const Contact = () => {
                 <p>
                   Don&apos;t like forms? Send me an
                   <a
-                    href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=contact@paalamugan.com&amp;cc=work@paalamugan.com&amp;su=Need to discuss with you Mr. Paalamugan&amp;body=Hi there, I need to talk"
+                    href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=burhanuddin.developer@gmail.com&amp;cc=burhanuddin.developer@gmail.com&amp;su=Need to discuss with you Mr. Burhanuddin&amp;body=Hi there, I need to talk"
                     target="_blank"
                     className={style["mail_text"]}
                     rel="noreferrer noopener"
@@ -142,7 +142,7 @@ const Contact = () => {
                   </span>
                   <div>
                     <h4>Location</h4>
-                    <p>Chennai, India</p>
+                    <p>Ahmedabad, India</p>
                   </div>
                 </div>
                 <div className={style["contact_info"]}>
