@@ -3,7 +3,7 @@ import { ProjectData } from "@app/types";
 
 export const projects: ReadonlyArray<ProjectData> = [
   {
-    imgUrl: images.project.nextjsWebOAuth,
+    imgUrl: images.project.pridemile,
     codeLink: "",
     projectLink: "https://pridemile.jp",
     title: "Pride-Mile",
@@ -12,7 +12,7 @@ export const projects: ReadonlyArray<ProjectData> = [
     tags: ["nextjs", "nodejs", "redux"],
   },
   {
-    imgUrl: images.project.cryptocurrencyBitcoin,
+    imgUrl: images.project.xpofairs,
     codeLink: "",
     projectLink: "https://xpofairs.com",
     title: "Xpo Fairs",
@@ -21,9 +21,9 @@ export const projects: ReadonlyArray<ProjectData> = [
     tags: ["nextjs", "mysql", "tanstack", "nodejs"],
   },
   {
-    imgUrl: images.project.vueHotelManagement,
+    imgUrl: images.project.kiwmi,
     codeLink: "",
-    projectLink: "https://kiwmi.vn/vi",
+    projectLink: "https://devs.kiwimi.vn/en",
     title: "Kiwmi",
     description:
       "A Complex user learning project where user can buy a course according to there need and choose it careers and plans acordingly. Kiwmi is develop usinggb Nextjs, Tanstack query, nodejs, expressjs and monogoDb as database.",
@@ -39,7 +39,7 @@ export const projects: ReadonlyArray<ProjectData> = [
     tags: ["nextjs", "reactjs", "tailwindcss", "typescript"],
   },
   {
-    imgUrl: images.project.gatsbyItekscope,
+    imgUrl: images.project.urenox,
     codeLink: "",
     projectLink: "https://web.urenox.com",
     title: "Urenox Project",
@@ -48,7 +48,7 @@ export const projects: ReadonlyArray<ProjectData> = [
     tags: ["reactjs", "vue", "php", "redux"],
   },
   {
-    imgUrl: images.project.translatorApplication,
+    imgUrl: images.project.chatbot,
     projectLink: "https://chatgpt.devstree.com",
     codeLink: "",
     title: "Knowledge Bot",

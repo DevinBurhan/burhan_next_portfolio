@@ -90,7 +90,7 @@ export const Project = (project: ProjectData) => {
             aria-label={`View ${project.title} Demo Website`}
             className="text-blue-600 text-sm hover:underline"
           >
-            View Demo Website
+            View Website
           </a>
         </div>
       </div>

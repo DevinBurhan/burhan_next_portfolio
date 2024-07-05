@@ -93,18 +93,18 @@ const Navbar = () => {
     <nav ref={navbarRef} className={style["app__navbar"]}>
       <div className={style["app__navbar-logo"]}>
         <Link href="/" className="flex h-10 w-64">
-          <Image
+          {/* <Image
             src={images.logoWhite}
             alt="Logo"
             priority
             className="cursor-pointer"
             sizes="100vw"
-          />
+          /> */}
 
-          {/* <div className={`text-4xl font-bold ${style["logo-font"]} cursor-pointer`}>
-            <span className="text-black">PAALA</span>
-            <span className="pl-2 text-primary">MUGAN</span>
-          </div> */}
+          <div className={`text-4xl font-bold ${style["logo-font"]} cursor-pointer`}>
+            <span className="text-black">BUR</span>
+            <span className="pl-2 text-primary">HAN</span>
+          </div>
         </Link>
       </div>
       <ul className={style["app__navbar-links"]}>
