@@ -41,3 +41,4 @@ export { default as nextjs } from "../assets/icons/nextjs.svg";
 export { default as tailwindcss } from "../assets/icons/tailwindcss.svg";
 export { default as typescript } from "../assets/icons/typescript.svg";
 export { default as yarn } from "../assets/icons/yarn.svg";
+export { default as tanstack } from "../assets/icons/tanstack.png";

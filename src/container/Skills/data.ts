@@ -84,7 +84,7 @@ export const skills = [
   "css",
   "javascript",
   "typescript",
-  "sass",
+  "tanstack",
 
   "reactjs",
   "nextjs",

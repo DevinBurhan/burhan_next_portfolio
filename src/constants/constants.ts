@@ -136,6 +136,12 @@ export const programmingLanguages: ProgrammingLanguagesType = {
     bgColor: "#f7df1e36",
     url: "https://www.w3schools.com/js/",
   },
+  tanstack: {
+    name: "Tanstack",
+    icon: icons.tanstack,
+    bgColor: "#f7df1e36",
+    url: "https://tanstack.com/",
+  },
   mongodb: {
     name: "MongoDB",
     icon: icons.mongodb,
