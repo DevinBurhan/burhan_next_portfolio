@@ -7,44 +7,75 @@ export const testimonialsData: TestimonialDataType[] = [
     iconUrl: icons.country.us,
     iconName: "USA",
     feedback:
-      "On point work, tried to understand the requirements really well and delivered it brilliantly. Would love to work with him again.",
+      "Delivered the project brilliantly and understood the requirements well. It was a pleasure working together.",
     company: "Freelance",
   },
   {
-    name: "Chandrakandh M",
+    name: "Hussain Moti",
     iconUrl: icons.country.in,
     iconName: "India",
-    feedback:
-      "He understood the requirement very well and finished our React+Node work on time. He followed coding standards and did like a professional company. Definitely we will rehire him.",
+    feedback: "Met our expectations and delivered quality work. Would work with again.",
     company: "Freelance",
   },
+  {
+    name: "Saurva Kumar Jha",
+    iconUrl: icons.country.in,
+    iconName: "India",
+    feedback: "Professional and efficient. Finished the work as expected.",
+    company: "Freelance",
+  },
+  // {
+  //   name: "Chandrakandh M",
+  //   iconUrl: icons.country.in,
+  //   iconName: "India",
+  //   feedback:
+  //     "Finished our React+Node work on time and followed coding standards professionally. We will definitely rehire.",
+  //   company: "Freelance",
+  // },
   {
     name: "Bishop M",
     iconUrl: icons.country.us,
     iconName: "USA",
     feedback:
-      "Did a FANTASTIC job. Typically I dread hiring freelancers for small odds and ends on larger scale projects because they typically end up costing me more time than they save me but not only did he get an understanding of what I was needing done in a quick fashion he also didn't push back when I informed him that it would have be developed a certain way. Its nice to work with a professional that can build our project to the spec required. 5 STARS!",
-    company: "Freelance",
-  },
-  {
-    name: "Renan Georgio C",
-    iconUrl: icons.country.br,
-    iconName: "Brazil",
-    feedback: "Paalamugan is a great worker, attentive and i definitely hired again",
-    company: "Freelance",
-  },
-  {
-    name: "Ashraf M",
-    iconUrl: icons.country.eg,
-    iconName: "Egypt",
-    feedback: "Best freelancer i have never been seen before.",
+      "Got a quick understanding of the project requirements and delivered to spec. A pleasure to work with!",
     company: "Freelance",
   },
   {
     name: "Junxi L",
     iconUrl: icons.country.au,
     iconName: "Australia",
-    feedback: "Awesome communication. honest man with dedicated work.",
+    feedback: "Great communication and dedicated work. Highly recommended.",
+    company: "Freelance",
+  },
+
+  {
+    name: "Iliyas Lokhand",
+    iconUrl: icons.country.in,
+    iconName: "India",
+    feedback: "Solid work ethic and reliable delivery. Happy with the outcome.",
+    company: "Freelance",
+  },
+
+  {
+    name: "Chetanya Sharma",
+    iconUrl: icons.country.in,
+    iconName: "India",
+    feedback: "Consistently professional and reliable. Very pleased with the service.",
+    company: "Freelance",
+  },
+  // {
+  //   name: "Ashraf M",
+  //   iconUrl: icons.country.eg,
+  //   iconName: "Egypt",
+  //   feedback: "Did excellent work. Very satisfied with the results.",
+  //   company: "Freelance",
+  // },
+
+  {
+    name: "Renan Georgio C",
+    iconUrl: icons.country.br,
+    iconName: "Brazil",
+    feedback: "Attentive and great to work with. Will hire again.",
     company: "Freelance",
   },
 ];

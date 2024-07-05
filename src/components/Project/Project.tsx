@@ -33,7 +33,7 @@ export const Project = (project: ProjectData) => {
               <AiFillEye />
             </motion.div>
           </a>
-          <a
+          {/* <a
             href={project.codeLink}
             target="_blank"
             rel="noopener noreferrer"
@@ -47,7 +47,7 @@ export const Project = (project: ProjectData) => {
             >
               <AiFillGithub />
             </motion.div>
-          </a>
+          </a> */}
         </motion.div>
       </div>
 
@@ -83,16 +83,6 @@ export const Project = (project: ProjectData) => {
         </div>
         <p className="mt-3 mb-4 text-base text-center p-text">{project.description}</p>
         <div className="flex items-center mt-auto">
-          <a
-            href={project.codeLink}
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label={`View ${project.title} Source Code`}
-            className="text-blue-600 text-sm hover:underline"
-          >
-            View Source Code
-          </a>
-          <div className="px-2 font-medium">|</div>
           <a
             href={project.projectLink}
             target="_blank"

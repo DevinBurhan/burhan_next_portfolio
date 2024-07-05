@@ -150,7 +150,7 @@ export const programmingLanguages: ProgrammingLanguagesType = {
   },
   mysql: {
     name: "MySQl",
-    icon: icons.reactjs,
+    icon: icons.mysql,
     bgColor: "#00546b1a",
     url: "https://www.mysql.com/",
   },

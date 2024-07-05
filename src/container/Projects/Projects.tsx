@@ -15,11 +15,11 @@ const Projects = () => {
         Checkout <span>Some of</span> My projects
       </h2>
 
-      <TabFilterContainer items={projects.slice(0, 4)} isDisabledAnimation={false}>
+      <TabFilterContainer items={projects.slice(0, 6)} isDisabledAnimation={false}>
         {(item) => <Project key={item.title} {...item} />}
       </TabFilterContainer>
 
-      <ShowMoreLink href="/projects" label="Projects" />
+      {/* <ShowMoreLink href="/projects" label="Projects" /> */}
     </>
   );
 };
