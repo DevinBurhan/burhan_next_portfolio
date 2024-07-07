@@ -1,4 +1,4 @@
-import homePage from "../../public/screenshots/home.png";
+import homePage from "../../public/screenshots/home.jpg";
 import homePageSmall from "../../public/screenshots/home-500x256.png";
 import about01 from "../assets/about01.png";
 import about02 from "../assets/about02.png";

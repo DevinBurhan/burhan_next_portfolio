@@ -12,8 +12,8 @@ interface TwitterMetaProps {
 const TwitterMeta: FC<TwitterMetaProps> = ({ title, description, canonical, image }) => {
   return (
     <Head>
-      <meta name="twitter:site" content="@paalamugan_s" />
-      <meta name="twitter:creator" content="@paalamugan_s" />
+      <meta name="twitter:site" content="@burhanuddin" />
+      <meta name="twitter:creator" content="@burhanuddin" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />

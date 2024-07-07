@@ -1,6 +1,6 @@
 {
-  "name": "Paalamugan || Senior Software Engineer",
-  "short_name": "Paalamugan",
+  "name": "Burhanuddin || Senior Software Engineer",
+  "short_name": "Burhanuddin",
   "description": "Software Engineer Portfolio Website",
   "start_url": "/",
   "theme_color": "#313bac",
@@ -8,13 +8,13 @@
   "display": "standalone",
   "shortcuts": [
     {
-      "name": "Paalamugan || Senior Software Engineer",
-      "short_name": "Paalamugan",
+      "name": "Burhanuddin || Senior Software Engineer",
+      "short_name": "Burhanuddin",
       "description": "Software Engineer Website",
       "url": "/",
       "icons": [
         {
-          "src": "https://paalamugan.com/icons/icon-192x192.png",
+          "src": "https://burhan-next-portfolio.vercel.app//icons/icon-192x192.png",
           "sizes": "192x192"
         }
       ]

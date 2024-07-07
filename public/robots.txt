@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://paalamugan.com
+Host: https://burhan-next-portfolio.vercel.app/
 
 # Sitemaps
-Sitemap: https://paalamugan.com/sitemap.xml
+Sitemap: https://burhan-next-portfolio.vercel.app/sitemap.xml

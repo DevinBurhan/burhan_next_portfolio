@@ -10,6 +10,7 @@ const suffixTitle = "Burhanuddin || Software Engineer";
 
 const MyApp = ({ Component, pageProps }: AppProps) => {
   const { siteUrl, title, description, image } = pageProps;
+  console.log("file: _app.tsx:13  MyApp  image", image);
   const newTitle = title ? `${title} - ${suffixTitle}` : suffixTitle;
   const newDescription =
     description ||

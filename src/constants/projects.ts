@@ -32,7 +32,7 @@ export const projects: ReadonlyArray<ProjectData> = [
   {
     imgUrl: images.project.portfolioWebsite,
     codeLink: "",
-    projectLink: "https://github.com/paalamugan/paalamugan-portfolio-nextjs",
+    projectLink: "https://burhan-next-portfolio.vercel.app/",
     title: "Portfolio Website",
     description:
       "Portfolio Website developed for Full Stack Software Engineer with full responsiveness using Nextjs, Tailwindcss, SCSS, Typescript and more.",

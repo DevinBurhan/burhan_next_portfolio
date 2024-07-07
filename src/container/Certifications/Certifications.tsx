@@ -21,4 +21,4 @@ const Certifications = () => {
   );
 };
 
-export default AppWrap(MotionWrap(Certifications), "certifications", "bg-white");
+export default certifications;
