@@ -12,6 +12,8 @@ import Contact from "@app/container/Contact/Contact";
 import commonStyle from "@app/styles/module/common.module.scss";
 import { NavLink } from "@app/constants";
 import { MainLayout } from "@app/layouts/MainLayout";
+import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const withSection = (Component: NextComponentType, id: NavLink) => {
   return (
@@ -36,6 +38,8 @@ const LandingPage = () => {
       {withSection(Skills, "skills")}
       {withSection(Testimonial, "testimonial")}
       {withSection(Contact, "contact")}
+      <Analytics />
+      <SpeedInsights />
     </MainLayout>
   );
 };
