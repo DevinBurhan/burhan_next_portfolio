@@ -160,15 +160,16 @@ const Contact = () => {
                     >
                       Download
                     </a>
-                    <span className="mx-1">|</span>
-                    <a
+                    {/* <span className="mx-1">|</span> */}
+                    {/* <a
                       href={RESUME_URL}
                       target="_blank"
+                      title="Burhanuddin || Resume"
                       rel="noreferrer noopener"
                       className={style["resume-link"]}
                     >
                       View
-                    </a>
+                    </a> */}
                   </div>
                 </div>
               </div>

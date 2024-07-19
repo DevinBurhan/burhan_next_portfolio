@@ -11,15 +11,15 @@ export const projects: ReadonlyArray<ProjectData> = [
       "Pride Mile Project developed using Next.js, Redux, Redux Toolkit. It is Japan based online platform to buy and sell car online.",
     tags: ["nextjs", "nodejs", "redux"],
   },
-  {
-    imgUrl: images.project.xpofairs,
-    codeLink: "",
-    projectLink: "https://xpofairs.com",
-    title: "Xpo Fairs",
-    description:
-      "Xpo Fairs was developed using Next, Tanstack query, MySql, Mantine and Node. It is an innovative start-up focused on finding a way to make trade events easier, cheaper and more effective for exhibitors & visitors.",
-    tags: ["nextjs", "mysql", "tanstack", "nodejs"],
-  },
+  // {
+  //   imgUrl: images.project.xpofairs,
+  //   codeLink: "",
+  //   projectLink: "https://xpofairs.com",
+  //   title: "Xpo Fairs",
+  //   description:
+  //     "Xpo Fairs was developed using Next, Tanstack query, MySql, Mantine and Node. It is an innovative start-up focused on finding a way to make trade events easier, cheaper and more effective for exhibitors & visitors.",
+  //   tags: ["nextjs", "mysql", "tanstack", "nodejs"],
+  // },
   {
     imgUrl: images.project.kiwmi,
     codeLink: "",
