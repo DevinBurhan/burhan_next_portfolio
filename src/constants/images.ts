@@ -23,7 +23,7 @@ import nextjsWebOAuth from "../assets/projects/nextjs-web-oauth.png";
 import cryptocurrencyBitcoin from "../assets/projects/cryptocurrency-bitcoin.png";
 import vueHotelManagement from "../assets/projects/vue-hotel-management.png";
 import gatsbyItekscope from "../assets/projects/gatsby-itekscope.png";
-import portfolioWebsite from "../assets/projects/portfolio-website.png";
+import portfolioWebsite from "../assets/projects/portfolio-image.png";
 
 import pridemile from "../assets/projects/pridemile.png";
 import xpofairs from "../assets/projects/xpofairs.png";
